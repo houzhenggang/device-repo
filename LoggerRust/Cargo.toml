@@ -1,0 +1,10 @@
+[package]
+name = "rustlogger"
+version = "0.1.0"
+
+[lib]
+name = "rustlogger"
+crate-type = ["dylib"]
+
+[dependencies]
+libc="*"
