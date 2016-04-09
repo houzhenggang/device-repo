@@ -1,0 +1,11 @@
+.cproject
+.project
+.pydevproject
+
+*.so
+*.pyc
+
+CMakeFiles
+Makefile
+CMakeCache.txt
+*.cmake
